@@ -16,6 +16,8 @@ This template is created based on Thesis requirements of NCBS-TIFR.
 # Compilation
 To compile all the structures (with `pdflatex`), follow following procedure
 
+    Note: Initial compilation might take long time if you do not have all the latex packages needed to compile. Before compiling check if you have all the packages installed. You can switch on automatic package installation if using MikTex. 
+
 ## Windows 
 Just run `script.bat` (double click it)
 
