@@ -1,0 +1,16 @@
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.blg
+*.glo
+*.idx
+*.ilg
+*.lot
+*.lof
+*.ist
+*.ind
+*.out
+main.toc
+main.synctex.gz
